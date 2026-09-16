@@ -6,7 +6,7 @@ An end-to-end analytical framework designed to measure customer acquisition effi
 ---
 
 ## Visual Preview
-![Dashboard Preview](dashboard_overview.png)
+![Dashboard Preview](marketing_contribution_profit.png)
 
 ---
 
